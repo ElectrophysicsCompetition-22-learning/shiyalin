@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\DELL\Desktop\C_Learning\Project10\Project10\源.c(16,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DELL\Desktop\C_Learning\Project10\Project10\源.c(17,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project10.vcxproj -> C:\Users\DELL\Desktop\C_Learning\Project10\x64\Debug\Project10.exe
